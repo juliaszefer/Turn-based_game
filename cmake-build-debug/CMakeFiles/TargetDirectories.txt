@@ -1,0 +1,3 @@
+/Users/juliaszefer/CLionProjects/2122_PJC_18c_pl_s24690/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/juliaszefer/CLionProjects/2122_PJC_18c_pl_s24690/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/juliaszefer/CLionProjects/2122_PJC_18c_pl_s24690/cmake-build-debug/CMakeFiles/2122_PJC_18c_pl_s24690.dir

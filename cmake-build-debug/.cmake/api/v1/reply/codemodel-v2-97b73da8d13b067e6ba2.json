@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2122_PJC_18c_pl_s24690",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2122_PJC_18c_pl_s24690::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2122_PJC_18c_pl_s24690-Debug-6e8445f17cc9f370d025.json",
+					"name" : "2122_PJC_18c_pl_s24690",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/juliaszefer/CLionProjects/2122_PJC_18c_pl_s24690/cmake-build-debug",
+		"source" : "/Users/juliaszefer/CLionProjects/2122_PJC_18c_pl_s24690"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
